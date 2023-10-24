@@ -5,7 +5,7 @@ function Spam() {
         let selfVideo = document.getElementById('selfvideo'); // you can be banned if you use this script in the video section
         if (selfVideo) {
             console.warn("SCRIPT CAN ONLY BE USED IN THE TEXT SECTION OF OMEGLE");
-            console.error("THIS IS TO PREVENT NERDS LIKE YOU FROM BEING BANNED");
+            console.warn("THIS IS TO PREVENT NERDS LIKE YOU FROM BEING BANNED");
             clearInterval(spamInterval);
             return;
         }
