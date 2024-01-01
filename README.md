@@ -5,6 +5,6 @@ Simple SpamBot for omegle.com (WORKING)
 
 # PROJECT DISCONTINUED
 
-- this project isn't even a month old but since omegle has closed there's no point in continuing.
+- since omegle has closed there's no point in continuing.
 
 - however you can always modify the code and make it suitable for other sites
